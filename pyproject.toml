@@ -11,6 +11,8 @@ python = "^3.11"
 flask = "^2.3.2"
 slackclient = "^2.9.4"
 slackeventsapi = "^3.0.1"
+pymongo = "^4.4.1"
+dnspython = "^2.4.1"
 
 
 [build-system]
