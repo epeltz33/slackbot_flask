@@ -4,7 +4,8 @@
 
 
 # .env file
-.env
+.env file
+
 
 # Database files (MongoDB)
 *.log
